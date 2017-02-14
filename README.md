@@ -7,4 +7,4 @@ Step 1.
 Step 2.
     Run <code>npm start</code>
     
-Files are generated under folder <code>test_files</code>
+Files are generated under <code>test_files</code> folder
